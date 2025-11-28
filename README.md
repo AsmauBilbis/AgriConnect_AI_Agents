@@ -273,8 +273,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Connect
 
-- 💼 **LinkedIn** - Your LinkedIn profile
-- 🐦 **Twitter/X** - Your Twitter handle
+- 💼 **LinkedIn** - https://www.linkedin.com/in/asmau-lawal-8740561b5/
+- 🐦 **Twitter/X** - Asmau_Bilbis
 - 📧 **Email:** albilbis360@gmail.com
 
 ---
