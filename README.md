@@ -274,7 +274,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Connect
 
 - 💼 **LinkedIn** - https://www.linkedin.com/in/asmau-lawal-8740561b5/
-- 🐦 **Twitter/X** - Asmau_Bilbis
+- 🐦 **Twitter/X** - https://x.com/Asmau_Bilbis
 - 📧 **Email:** albilbis360@gmail.com
 
 ---
